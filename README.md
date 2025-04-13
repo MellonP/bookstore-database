@@ -12,7 +12,7 @@ A fully relational MySQL database system that models a real-world online booksto
 
 ## Entity Relationship Diagram (ERD)
 
-![Entity Relationship Diagram](groupwork.jpg/internalstorage/downloud)
+![Entity Relationship Diagram](groupwork (4).jpg)
 
 ## Tables Overview
 
