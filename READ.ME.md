@@ -61,6 +61,7 @@ A fully relational MySQL database system that models a real-world online booksto
 
 - **Mellon Pakkies** – Project lead, database architect  
 - **Timothy Kiplimo** – Draw.io architect
+- **Obidia Kiptanui** - Consultant 
 
 
 Built as a practical learning resource for relational database design and management.
